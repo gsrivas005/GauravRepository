@@ -1,0 +1,7 @@
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\bin\Debug\SampleCode.exe.config
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\bin\Debug\SampleCode.exe
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\bin\Debug\SampleCode.pdb
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\obj\Debug\SampleCode.csprojAssemblyReference.cache
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\obj\Debug\SampleCode.exe
+C:\CheckInCheckOut\GauravRepository\GitPractice\SampleCode\obj\Debug\SampleCode.pdb
