@@ -11,6 +11,7 @@ namespace SampleCode
         static void Main(string[] args)
         {
             Console.WriteLine("First Git Uploaded Code");
+            Console.WriteLine("First Edit");
         }
     }
 }
